@@ -1,6 +1,7 @@
 fastapi
-uvicorn
+uvicorn[standard]
 yt-dlp
 pydantic
 python-multipart
 requests
+ffmpeg-python
